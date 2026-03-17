@@ -1,7 +1,7 @@
 # BTCUSD Complex WXY Backtest
 ### Double Zigzag Corrective Structure | Systematic Short Framework
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/btcusd-complex-wxy-backtest/blob/main/BTCUSD_Complex_WXY_Backtest.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/btcusd-complex-wxy-backtest/blob/main/btcusd_complex_wxy_backtest.ipynb)
 
 **By Munyaradzi Nyika | Wave and Code**
 
