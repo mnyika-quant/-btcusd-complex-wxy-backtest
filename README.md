@@ -13,13 +13,16 @@
 
 ## Overview
 
-BTCUSD has completed a complex WXY double zigzag corrective
-structure on the 4 hour chart. This repository documents the
-systematic short framework built on that structure — combining
-Elliott Wave market structure identification with RSI momentum
-confirmation, ATR based position sizing, automated email alerts,
-and a defined re-entry framework.
+The trade **closed successfully on 20 March 2026** with a 
+**3.90% return in 3 days** on a $1,000,000 simulated account.
+$39,049 locked. 195% return on risk. Full post trade review 
+on Substack.
 
+
+THE FOUR STEP ACTION PLAN:
+Step 1 — Publish Substack post trade review
+Step 2 — Update GitHub README
+Step 3 — P
 The framework is **armed and awaiting RSI confirmation** as of
 17 March 2026. Both structural entry conditions are met. The RSI
 is 1.06 points from its MA trigger.
@@ -145,19 +148,23 @@ btc = raw.resample('4h').agg({
 
 ---
 
-## Performance Status
+## Performance Metrics — TRADE CLOSED ✅
 
 | Metric | Value |
 |--------|-------|
-| Status | **ARMED — Awaiting RSI confirmation** |
-| Entry date | 17 March 2026 |
-| Current price | 74,635 |
-| RSI gap to trigger | 1.06 points |
-| Risk per trade | $20,000 (2%) |
-| Potential profit at target | $164,996 |
-| Return at target | 16.50% |
-
-*Performance metrics will be updated when trade closes.*
+| Entry Date | 17 March 2026 |
+| Entry Price | 73,940.07 |
+| Exit Date | 20 March 2026 |
+| Exit Price | 69,890.80 |
+| Status | **CLOSED — WIN** |
+| Points Captured | 4,049.27 |
+| Trade Duration | 3 Days |
+| Profit Locked | $39,049.09 |
+| Return on Capital | **3.90%** |
+| Return on Risk | **195%** |
+| Risk Taken | $20,000 (2%) |
+| Exit Signal | RSI crossed above MA |
+| Version | 1.0 — Version 2 in development |
 
 ---
 
